@@ -3,7 +3,7 @@
 BredOS is a user-friendly Arch-based Linux distribution for ARM-based single board computers. <br><br>
 [![Latest GitHub Release](https://img.shields.io/github/release/BredOS/images.svg?label=Latest%20Release)](https://github.com/BredOS/images/releases/latest)
 [![Total GitHub Downloads](https://img.shields.io/github/downloads/BredOS/images/total.svg?&color=E95420&label=Total%20Downloads)](https://github.com/BredOS/images/releases)
-[![Boards Supported](https://img.shields.io/badge/Boards_supported-22-green)](https://github.com/BredOS/images)
+[![Boards Supported](https://img.shields.io/badge/Boards_supported-26-green)](https://github.com/BredOS/images)
 ## Documentation
 
 For detailed setup instructions, FAQs, and troubleshooting, please visit the [BredOS Wiki](https://wiki.bredos.org/).
